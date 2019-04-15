@@ -1,0 +1,39 @@
+﻿Portfolio-Website
+
+- structure first, adding content later
+- when adding content, important content first, less important stuff later
+
+
+Structure: 
+Navigation bar: Home - Skills  - References
+Just make the Navibar first and style it a bit maybe, additional list elements will just be added later when needed
+One general style for whole page in terms of font, for example. 
+Then just try bold for navibar and plain for page content, if even necessary at all. (I'd like to test without bold first.)
+structure general: honestly, that one-page-design (/parallax examples or the doggo page) would be what I would opt for most, but linking to the exact points where I want the user to land would be complicated. hashtag links (bookmark links) aren't as exact as I would prefer them to be... but still the one-page design is something I actually like. .... otherwise well the typical, navigation bar and pages. external style sheet definitely. 
+probably best would be to make the first page with full navigation bar, main design elements or such and then use that as template for the other pages. maybe... that 'parallaxlike' can be done for the subpages as such. the "cv gaps" page... imagine 2-4 gap examples. 
+as for the code typing style, I want this page to be the first where I start my own code format style: my code line are supposed to fit in normal lines, what can be finished in that line gets its bracket right there. missing brackets need to be noticed, but I check that at the end of the line. (after learnig how it is typically done by most of 'em coders so far, it's time to get to my own style here I'd say.)
+
+navi points: 
+1home 
+2skills (best would be some kind of dropbox)
+2.1. web development: (currently in training... languages being trained)  
+2.2. writing: 2.3.1. editorial content (here press articles)
+	2.3.2. academic writing (links study papers) (mix of a few amazon links and 
+2.3. languages: 2.3.1. several years of work experience as freelance translator (as opposed to interpreter) for the language pairs EN to DE and PL to DE
+2.3.2. spoken languages: in spite of concentrating on translation not interpreting, mastering of all three languages can be described as either native level or as close to native as possible when living in a multinational cultural surrounding and regularly using all three in spoken communication, too (though in a cascading order of frequency: polish being topped by english which again is being topped by german 'amount of words per day' training spoken language proficiency and keeping it up-to-date) <the recruiter who gave up on this paragraph does not know shit about the relevance of keeping your language stuff trained, especially if you got grey hair on your head to distract from!! >
+2.3.3. "Computerlinguistik": well... not yet a deeper insight yet, but I am getting there. This department was not yet part of the philology studies curriculum when I studied at the FU, but I am trying to catch up on that (see web development / languages being trained) < well I need to make SOME kind of connection between the languages part of my ... life -and- educational -and- professional background on the one hand and 'computer language as a language' as opposed to being another way of writing a math-like form (which is more like it but I don't need to tell that on this exact subpage which is trying to draw a line that needs to be drawn to avoid my CV looking too confusing. there is a lot of jumping around in my CV and I need to make all those jumps to somehow look like carefully planned and professionally executed acrobatics, preferably on an almost-olympic level. Almost!) >
+2.4. CV gaps (aka life before studies / translation plus current hobbies and further interests)
+2.4.1. gap one: 1,35 x 2,10m <skill might be considered useful if a possible future employer is searching for a web coder with some skills in design or color ranges, some artsy background... >
+2.4.2. gap two: around 32 kilograms, depending on how good he ate last week 
+(2-3 nice real doggo pics and even the external doggo link might be placed here) 
+2.5. contact
+
+
+
+
+
+
+ 
+
+
+
