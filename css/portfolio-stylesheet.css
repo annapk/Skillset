@@ -68,6 +68,6 @@ p.main {
   font-size: 18px;
 }
 
-p a {
+a.main {
   text-decoration: none; text-decoration-color: #4D000;
 }
