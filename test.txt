@@ -1,1 +1,5 @@
-testdok zum erstellen des unterordners f�r "karols version"
+testdok zum erstellen des unterordners für "karols version"
+
+testergebnis: negativ, der erstellt den ordner nicht, nimmt einfach nur die datei. jeder upload hier würde also vorangehende dateiversionen überschreiben aka löschen. 
+
+also zurück auf start und noch anders. 
